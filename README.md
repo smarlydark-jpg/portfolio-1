@@ -2,8 +2,9 @@
 I am a aspiring video game QA Tester hoping to learn more about the video game industry and hoping to enter the game design, game creation or any other game related space. 
 
 ## MY SKILLS
-Basic QA Testing Understanding: Test Planning, Bug Reports, Version Control etc.
 ![image](https://github.com/smarlydark-jpg/portfolio-2/blob/main/Screenshot%202025-12-29%20203532.png?raw=true)
+
+Basic QA Testing Understanding: Test Planning, Bug Reports, Version Control etc.
 
 Understanding of SDLC 
 
