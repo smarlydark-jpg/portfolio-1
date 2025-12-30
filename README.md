@@ -8,11 +8,11 @@
 
 ![image](https://github.com/smarlydark-jpg/portfolio-2/blob/main/Screenshot%202025-12-29%20203532.png?raw=true)
 
-Understanding of SDLC 
+**Understanding of SDLC** 
 
-Proficient with Git, Github and Github Desktop
+**Proficient with Git, Github and Github Desktop**
 
-Proficient with Jira
+**Proficient with Jira**
 
 ## MY PROJECTS
 
