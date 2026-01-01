@@ -58,26 +58,6 @@ UI/UX issues
 
 Performance or logic issues
 
-🐞 Sample Bug Report Format
-Title: Character gets stuck after jumping near wall
-
-Environment:
-- Platform: PC
-- Build: v1.0
-
-Steps to Reproduce:
-1. Launch the game
-2. Load Level 2
-3. Jump repeatedly near the left wall
-
-Expected Result:
-Character should land and move freely
-
-Actual Result:
-Character becomes stuck and cannot move
-
-Severity:
-Medium
 
 🎯 Why QA Matters to Me
 
@@ -89,9 +69,7 @@ I am seeking an entry-level Game Tester or QA Tester position where I can grow m
 
 📫 Contact
 
-Email: mahoneyegwurube@gmail.com
 
-Location: Montreal, QC
 GitHub: github.com/smarlydark-jpg
 
 ## MY PROJECTS
@@ -119,6 +97,10 @@ GitHub: github.com/smarlydark-jpg
     <tr>
       <td>📧</td>
       <td><a href="mailto:mahoneyegwurube@gmail.com">My gmail</a></td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="github.com/smarlydark-jpg">GitHub</a></td>
     </tr>
     <tr>
       <td>📞</td>
